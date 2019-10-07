@@ -1,0 +1,12 @@
+.category__sectionTitle--device_sp{
+  display: none;
+}
+
+.headerSp__logo{
+  width: auto;
+  height: auto;
+  padding-top: 10px;
+  padding-left: 20px;
+  box-sizing: border-box;
+  float: left;
+}
